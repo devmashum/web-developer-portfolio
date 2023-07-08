@@ -8,8 +8,8 @@ body {
     background: #FD6E0A;
     color: white;
     border: 0px;
-    font-size: 20px;
-    padding: 15px 35px;
+    font-size: 15px;
+    padding: 10px 35px;
 
 
 }
@@ -18,7 +18,8 @@ body {
 nav {
     display: flex;
     align-items: center;
-    justify-content: space-between
+    justify-content: space-between;
+    margin: 0px 200px;
 }
 
 .web-logo {
@@ -48,4 +49,35 @@ nav li {
 nav a {
     text-decoration: none;
     color: #474747;
+}
+
+/*header related style*/
+.header {
+    background-color: #FFF8F3;
+    ;
+
+}
+
+.banner {
+    padding: 30px 30px 40px 150px;
+    display: flex;
+    align-items: center;
+}
+
+.btn-contact {
+    background-color: white;
+    color: #FD6E0A;
+    border-radius: 5px;
+    border: 1px solid #FD6E0A;
+}
+
+.banner-title {
+    margin-left: opx;
+}
+
+.profile-picture {
+
+    width: 584px;
+    height: 676px;
+    s
 }
